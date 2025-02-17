@@ -1,0 +1,1 @@
+# Predictive-Modeling-of-Human-Diseases-Using-Symptom-Encoding-and-SVM
